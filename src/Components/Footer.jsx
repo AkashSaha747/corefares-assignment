@@ -7,8 +7,8 @@ function MyFooter() {
       <Container>
         <Row>
           <Col md={6}>
-            <h4>Contact Information</h4>
-            <p>Email: example@example.com</p>
+            <h4>Contact Us</h4>
+            <p>Email: abd@gmail.com</p>
             <p>Phone: +0123456789</p>
           </Col>
           <Col md={6}>
