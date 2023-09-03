@@ -1,0 +1,17 @@
+.navbar {
+    @media screen and (max-width: 279px) and (min-width: 0px) {
+        font-size: 12px;
+    }
+}
+
+.image {
+
+    @media screen and (max-width: 359px) and (min-width: 0px) {
+        display: none;
+    }
+    @media screen and (max-width: 397px) and (min-width: 0px) {
+        height: 49px;
+        width: 69px;
+    }
+}
+
